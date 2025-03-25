@@ -1,6 +1,5 @@
-# BowlingGame
-Get the score of Bowling Game in cpp
-step to build the project
-step-1: clone the project.
-step-2: Open your workspace(in Eclipse) and then import project.
-step-3: Build and Run, one test case will get execute.  
+# BowlingGoogleTestGame
+Once Build and run.
+Total 7 gtest will executed
+One scenarion which is mentioned in the the question also verified each frame. 
+Please keep clone both project seperately do not checkout branch.

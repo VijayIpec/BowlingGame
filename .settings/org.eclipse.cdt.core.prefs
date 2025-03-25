@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1331432257/MINGW_HOME\ \ \ C\:\\MinGW64/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1331432257/MINGW_HOME\ \ \ C\:\\MinGW64/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1331432257/MINGW_HOME\ \ \ C\:\\MinGW64/value=C\:\\mingw64
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1331432257/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1331432257/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1331432257/PATH/value=C\:\\mingw64\\bin;C\:/Users/vpsingh/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700/jre/bin/server;C\:/Users/vpsingh/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700/jre/bin;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Windows\\System32\\OpenSSH\\;C\:\\Program Files\\jdk-15\\bin;C\:\\Program Files\\PuTTY\\;C\:\\Users\\vpsingh\\AppData\\Local\\Microsoft\\WindowsApps;C\:\\Users\\vpsingh\\AppData\\Local\\Programs\\Git\\cmd;C\:\\Users\\vpsingh\\Desktop;C\:\\mingw64\\googletest-1.16.0\\googletest\\cmake;C\:\\Program Files\\CMake\\bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1331432257/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1331432257/appendContributed=true
